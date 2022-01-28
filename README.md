@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatiasDeku
 - 👀 I’m interested in games
 - 🌱 I’m currently learning pokemon 
-- 💞️ I’m looking to collaborate on nada
+- 💞️ I’m looking to collaborate on algo
 - 📫 How to reach me pikachu 
 
 <!---
